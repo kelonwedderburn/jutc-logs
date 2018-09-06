@@ -4,3 +4,4 @@
 @author ggordon
 
 Sample project demonstrating use of Log4j
+@updated kelonwedderburn
