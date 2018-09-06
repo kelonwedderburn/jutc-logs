@@ -6,4 +6,4 @@
 Sample project demonstrating use of Log4j
 
 
-@updated kelonwedderburn2 1:51pm
+@updated kelonwedderburn2 1:55
